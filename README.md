@@ -1,3 +1,4 @@
+# NOTE - Avoid using this package, this package will be used till my PRs (scroll fix especially) are merged into the main package.
 # International Telephone Input for Angular (NgxIntlTelInput)
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
